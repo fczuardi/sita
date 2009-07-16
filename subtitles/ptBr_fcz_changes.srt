@@ -12,24 +12,24 @@ Ele é o tipo de homem que precisa de um tipo de mulher como eu
 
 4
 00:01:30,567 --> 00:01:32,702
-uma mulher como eu..
+uma mulher como eu…
 
 5
 00:01:32,702 --> 00:01:34,971
-uma mulher como eu...
-uma mulher como eu...
+uma mulher como eu…
+uma mulher como eu…
 
 6
 00:01:34,971 --> 00:01:37,207
-uma mulher como eu...
-uma mulher como eu...
-uma mulher como eu...
+uma mulher como eu…
+uma mulher como eu…
+uma mulher como eu…
 
 7
 00:01:37,207 --> 00:01:52,020
-uma mulher como eu...
-uma mulher como eu...
-uma mulher como eu...
+uma mulher como eu…
+uma mulher como eu…
+uma mulher como eu…
 (etc)
 
 8
@@ -50,11 +50,11 @@ Quando?
 
 12
 00:07:03,966 --> 00:07:04,967
-Não me lembro qual o ano ...
+Não me lembro qual o ano…
 
 13
 00:07:04,967 --> 00:07:05,968
-não há ano...
+não há ano…
 
 14
 00:07:05,968 --> 00:07:07,970
@@ -70,11 +70,11 @@ O século 14 foi recentemente.
 
 17
 00:07:12,742 --> 00:07:13,976
-Não, mas.. eu não sei..
+Não, mas… eu não sei…
 
 18
 00:07:13,976 --> 00:07:16,571
-Foi quando...  o Moghuls estava no poder, Babar estava na Índia
+Foi quando…  o Moghuls estava no poder, Babar estava na Índia
  
 19
 00:07:16,571 --> 00:07:17,336
@@ -146,7 +146,7 @@ Eu sei o nome dos filhos, a propósito.
 
 36
 00:07:56,219 --> 00:07:58,020
-Kausalya...
+Kausalya…
 
 37
 00:07:58,020 --> 00:08:00,147
@@ -178,7 +178,7 @@ Sim, e
 
 44
 00:08:12,969 --> 00:08:16,973
-acho que Shatrughan era o irmão de Laxman - o que significa que ele tinha de ser, uh..
+acho que Shatrughan era o irmão de Laxman - o que significa que ele tinha de ser, uh…
 
 45
 00:08:16,973 --> 00:08:18,774
@@ -190,7 +190,7 @@ Sita era esposa de Ram.
 
 47
 00:08:20,977 --> 00:08:25,314
-Certo, e Sita ..  eu sei também, o pai de Sita era Janaka.
+Certo, e Sita…  eu sei também, o pai de Sita era Janaka.
 
 48
 00:08:25,314 --> 00:08:27,984
@@ -210,7 +210,7 @@ Janaki também.
 
 52
 00:08:31,988 --> 00:08:34,991
-e Vahish, Vahish, uhn..
+e Vahish, Vahish, uhn…
 
 53
 00:08:34,991 --> 00:08:36,993
@@ -226,7 +226,7 @@ Ram estava prestes a ser coroado por Dashratha como Rei
 
 56
 00:08:46,335 --> 00:08:48,744
-e Kaikeyi foi até ele e ...
+e Kaikeyi foi até ele e…
 
 57
 00:08:48,744 --> 00:08:52,008
@@ -271,7 +271,7 @@ mas a minha má esposa Kaikeyi é muito maldosa
 
 67
 00:09:36,218 --> 00:09:37,310
-Grrr...
+Grrr…
 
 68
 00:09:37,687 --> 00:09:40,990
@@ -319,11 +319,11 @@ Isso é o que ela pediu e Dasharatha estava inconsolável.
 
 79
 00:10:13,022 --> 00:10:17,026
-Mas dado que todos homens indianos são leais às suas palavras... 
+Mas dado que todos homens indianos são leais às suas palavras… 
 
 80
 00:10:17,026 --> 00:10:21,030
-ele teve que... fazer aquilo.
+ele teve que… fazer aquilo.
 
 81
 00:10:21,030 --> 00:10:22,963
@@ -331,11 +331,11 @@ E então ele morreu? Não morreu?
 
 82
 00:10:22,963 --> 00:10:24,033
-Não, eu não acho não..
+Não, eu não acho não…
 
 83
 00:10:24,033 --> 00:10:25,034
-Pode ser que tenha morrido...
+Pode ser que tenha morrido…
 
 84
 00:10:25,034 --> 00:10:30,039
@@ -355,7 +355,7 @@ Ele estava tendo um ataque cardíaco quando seu filho estava indo embora.
 
 88
 00:10:37,046 --> 00:10:40,049
-Eu creio que ele ficou mal...
+Eu creio que ele ficou mal…
  
 89
 00:10:40,049 --> 00:10:41,050
@@ -411,7 +411,7 @@ Eles aborrecem nossos Sábios e profanam os seus fogos de rituais.
 
 102
 00:11:10,713 --> 00:11:14,650
-Eu preciso enfrentá-los ... sozinho.
+Eu preciso enfrentá-los… sozinho.
 
 103
 00:11:14,650 --> 00:11:19,021
@@ -423,12 +423,12 @@ Vou aceitar qualquer sacrifício.
 
 105
 00:11:21,023 --> 00:11:23,472
-Eu não posso viver sem você...
+Eu não posso viver sem você…
 
 106
 00:11:23,472 --> 00:11:31,091
-Eu não posso viver sem você..
-Eu não posso viver sem você..
+Eu não posso viver sem você…
+Eu não posso viver sem você…
 
 107
 00:11:44,046 --> 00:11:50,576
@@ -540,11 +540,11 @@ e que roubou Sita.
 
 134
 00:15:10,986 --> 00:15:13,989
-Ele era um rei incrivelmente sábio. Pelo que eu sei, Ravana era...
+Ele era um rei incrivelmente sábio. Pelo que eu sei, Ravana era…
 
 135
 00:15:13,989 --> 00:15:16,992
-Na verdade, a única coisa ruim que parece ter feito..
+Na verdade, a única coisa ruim que parece ter feito…
 
 136
 00:15:16,992 --> 00:15:19,528
@@ -552,11 +552,11 @@ foi capturar Sita.
 
 137
 00:15:19,528 --> 00:15:22,998
-O que há de interessante .. porque tudo o mais sobre ele parece ser, como .. 
+O que há de interessante… porque tudo o mais sobre ele parece ser, como… 
 
 138
 00:15:22,998 --> 00:15:25,000
-ele era assim.. um cara realmente instruído, 
+ele era assim… um cara realmente instruído, 
 
 139
 00:15:25,000 --> 00:15:26,001
@@ -564,7 +564,7 @@ ele conhece todas estas armas
 
 140
 00:15:26,001 --> 00:15:28,170
-reza para os deuses certos...
+reza para os deuses certos…
 
 141
 00:15:28,170 --> 00:15:31,273
@@ -572,7 +572,7 @@ e coisas assim! Ele é o tipo do bom Rei.
 
 142
 00:15:31,273 --> 00:15:35,010
-Fora isso, com o tempo,  fomos levados a acreditar que ele é tudo isso... 
+Fora isso, com o tempo,  fomos levados a acreditar que ele é tudo isso… 
 
 143
 00:15:35,010 --> 00:15:38,013
@@ -588,7 +588,7 @@ Ele era um devotado Shva-bhakta.
 
 146
 00:15:45,020 --> 00:15:47,022
-e ele tocava - todos estes instrumentos...
+e ele tocava - todos estes instrumentos…
 
 147
 00:15:47,022 --> 00:15:50,025
@@ -713,7 +713,7 @@ Suas mãos são como, uhm, lotuses.
 
 177
 00:17:28,390 --> 00:17:32,952
-Seus seios, como grandes, redondos, firmes, suculentos...
+Seus seios, como grandes, redondos, firmes, suculentos…
 
 178
 00:17:33,328 --> 00:17:34,997
@@ -721,7 +721,7 @@ Lótuses!
 
 179
 00:17:34,997 --> 00:17:37,625
-Mmmm, ahhh...
+Mmmm, ahhh…
 
 180
 00:17:38,000 --> 00:17:42,805
@@ -822,7 +822,7 @@ o que não faria por esse homem?
 
 204
 00:20:08,016 --> 00:20:13,255
-Ele não é um anjo ou santo, e quais surpresas que ele não terá...
+Ele não é um anjo ou santo, e quais surpresas que ele não terá…
 
 205
 00:20:13,255 --> 00:20:18,126
@@ -959,7 +959,7 @@ Oh Sita, o que foi feito de você?
 
 238
 00:22:54,883 --> 00:22:57,552
-Na verdade, as origens do Hanuman...
+Na verdade, as origens do Hanuman…
 
 239
 00:22:57,552 --> 00:23:00,055
@@ -987,7 +987,7 @@ Isso é dasavatar, 10 encarnações.
 
 245
 00:23:13,001 --> 00:23:19,007
-Então.. a 10ª é a última, e ela ainda não chegou, supostamente. 
+Então… a 10ª é a última, e ela ainda não chegou, supostamente. 
 
 
 246
@@ -1000,7 +1000,7 @@ Então, de certa forma, ele predisse coisas que ainda vamos fazer
 
 248
 00:23:24,913 --> 00:23:28,738
-Então Shiva era realmente... Hanuman é uma encarnação de Shiva.
+Então Shiva era realmente… Hanuman é uma encarnação de Shiva.
 
 249
 00:23:28,738 --> 00:23:31,019
@@ -1021,7 +1021,7 @@ Parece que esta foi a razão para o seu nascimento.
 
 253
 00:23:42,030 --> 00:23:43,998
-(soluçando, chorando...)
+(soluçando, chorando…)
 
 254
 00:23:52,340 --> 00:23:54,609
@@ -1101,7 +1101,7 @@ E o nosso apartamento?
 
 273
 00:25:20,528 --> 00:25:21,586
-Uhhhh....
+Uhhhh….
 
 274
 00:25:21,730 --> 00:25:23,934
@@ -1117,7 +1117,7 @@ Eu a amo.
 
 277
 00:25:33,875 --> 00:25:35,900
-Você poderia vir aqui...
+Você poderia vir aqui…
 
 278
 00:25:37,512 --> 00:25:39,139
@@ -1263,7 +1263,7 @@ Por favor, papai.
 
 313
 00:28:40,228 --> 00:28:46,656
-Mesmo que o relógio continue batendo... Papai, você não quer voltar?
+Mesmo que o relógio continue batendo… Papai, você não quer voltar?
 
 314
 00:28:47,001 --> 00:28:52,598
@@ -1271,7 +1271,7 @@ Papai, você tem que vagar por tanto tempo?
 
 315
 00:28:52,807 --> 00:28:57,579
-Há também outros novos xeiques que procuram parecer 'chics'... 
+Há também outros novos xeiques que procuram parecer 'chics'… 
 
 316
 00:28:57,579 --> 00:29:01,413
@@ -1288,7 +1288,7 @@ Por favor, papai.
 
 319
 00:30:05,046 --> 00:30:11,417
-Mesmo que o relógio continue batendo... Papai, você não quer voltar?
+Mesmo que o relógio continue batendo… Papai, você não quer voltar?
 
 320
 00:30:11,986 --> 00:30:18,259
@@ -1296,7 +1296,7 @@ Papai, você tem que vagar por tanto tempo?
 
 321
 00:30:18,259 --> 00:30:22,897
-Há também outros novos xeiques que procuram parecer 'chics'... 
+Há também outros novos xeiques que procuram parecer 'chics'… 
 
 322
 00:30:22,897 --> 00:30:26,628
@@ -1372,7 +1372,7 @@ Você sabe, como, "meu homem vai chegar e ele é capaz disso e
 
 340
 00:31:26,894 --> 00:31:30,898
-"ele é virtuoso, e ele vai matar Ravan, e ..."
+"ele é virtuoso, e ele vai matar Ravan, e…"
 
 341
 00:31:30,898 --> 00:31:33,492
@@ -1388,11 +1388,11 @@ Eles podiam voar
 
 344
 00:32:06,234 --> 00:32:12,407
-não macacos, uhm, pelo que eu sei, isto é diferente de macacos, eles são...
+não macacos, uhm, pelo que eu sei, isto é diferente de macacos, eles são…
 
 345
 00:32:12,407 --> 00:32:16,244
-parecidos. Pelo que eu entendo, macacos são um tipo de ... uma espécie ...
+parecidos. Pelo que eu entendo, macacos são um tipo de… uma espécie…
 
 346
 00:32:16,244 --> 00:32:20,248
@@ -1404,15 +1404,15 @@ OK. Porque embora eles tivessem rabos
 
 348
 00:32:22,784 --> 00:32:26,254
-Correto. Mas eles não eram...
+Correto. Mas eles não eram…
 
 349
 00:32:26,254 --> 00:32:28,256
-Como, sim. Eu, definitivamente, acho que o rabo e o ...
+Como, sim. Eu, definitivamente, acho que o rabo e o…
 
 350
 00:32:28,256 --> 00:32:31,259
-Eles eram metade... eles eram definitivamente metade macacos, se não mais ...
+Eles eram metade… eles eram definitivamente metade macacos, se não mais…
 
 351
 00:32:31,259 --> 00:32:32,352
@@ -1425,7 +1425,7 @@ Mas, por outro lado, eles eram estes dois irmãos, que não tinhaam nenhum exér
 
 353
 00:32:34,796 --> 00:32:38,266
-estes dois irmãos e então, todo o grande arsenal de Sugriv, todo o...
+estes dois irmãos e então, todo o grande arsenal de Sugriv, todo o…
 
 354
 00:32:38,266 --> 00:32:41,269
@@ -1559,7 +1559,7 @@ Mmm, Dave!
 
 386
 00:36:32,675 --> 00:36:36,226
-Estamos na Índia. Oh..não... beijar em público!
+Estamos na Índia. Oh…não… beijar em público!
 
 387
 00:36:37,571 --> 00:36:39,436
@@ -1579,12 +1579,12 @@ Oh Deus. Mais tarde vou saber o que  ele fez. O que ele fez quando a viu em Lank
 
 391
 00:37:28,756 --> 00:37:30,057
-Abraçou-a e beijou-a ...
+Abraçou-a e beijou-a…
  
 
 392
 00:37:30,057 --> 00:37:30,887
-Não. Acho que não...
+Não. Acho que não…
 
 393
 00:37:30,992 --> 00:37:33,187
@@ -1596,12 +1596,12 @@ Por que ele estava frio com Sita?
 
 395
 00:37:36,230 --> 00:37:39,233
-Na verdade, não me lembro. Para ser sincero, não me sinto seguro sobre este ponto ... 
+Na verdade, não me lembro. Para ser sincero, não me sinto seguro sobre este ponto… 
 
 
 396
 00:37:39,233 --> 00:37:40,723
-Você pode inventar...
+Você pode inventar…
 
 
 397
@@ -1659,15 +1659,15 @@ Ele, obviamente, duvidava dela, huhn, pureza.
 
 410
 00:39:12,193 --> 00:39:15,196
-Acho que toda essa coisa de pureza, realmente ... ímpar.
+Acho que toda essa coisa de pureza, realmente… ímpar.
 
 411
 00:39:15,196 --> 00:39:19,200
-Considerei muito estranho que ninguém esteja louvando Ravan por não usar a força..
+Considerei muito estranho que ninguém esteja louvando Ravan por não usar a força…
 
 412
 00:39:19,200 --> 00:39:21,225
-Eu entendo, que eu sei que não devemos elogiar alguém por isso, mas ...
+Eu entendo, que eu sei que não devemos elogiar alguém por isso, mas…
 
 413
 00:39:21,302 --> 00:39:22,570
@@ -1692,7 +1692,7 @@ Eu entendo, nós esperamos os vilões para sermos os próprios vilões. (REVER)
 
 418
 00:39:31,479 --> 00:39:32,012
-Certo...
+Certo…
 
 419
 00:39:32,012 --> 00:39:33,673
@@ -1700,7 +1700,7 @@ Certo...
 
 420
 00:39:33,781 --> 00:39:35,214
-"Eu não vou forçar a mim mesmo sobre você..." 
+"Eu não vou forçar a mim mesmo sobre você…" 
 
 421
 00:39:35,349 --> 00:39:37,010
@@ -1825,7 +1825,7 @@ quero dizer, é quase como -
 451
 00:43:02,690 --> 00:43:06,327
 Não, mas eu pensei que ele estivesse convencido. Ele então, isso foi pura pressão, mais tarde com o
-lavador..
+lavador…
 
 452
 00:43:06,327 --> 00:43:07,794
@@ -1842,7 +1842,7 @@ Ele parecia estar "OK, você é pura."
 
 455
 00:43:11,432 --> 00:43:14,993
-E eu acho que ele abraçou-a e então flores cairam dos céus ou algo assim...
+E eu acho que ele abraçou-a e então flores cairam dos céus ou algo assim…
 
 456
 00:43:15,703 --> 00:43:18,706
@@ -2079,7 +2079,7 @@ Você sabe o que é um dhobi, certo? Ele é um lavador -- e quando os comentári
 
 513
 00:55:47,787 --> 00:55:52,747
-Ram diz, "eu não posso reinar se meus súditos não me respeitam e então você terá que..."
+Ram diz, "eu não posso reinar se meus súditos não me respeitam e então você terá que…"
 
 514
 00:55:53,793 --> 00:55:56,858
@@ -2111,7 +2111,7 @@ Eu não posso tê-la comigo no meu reino.
 
 521
 00:56:20,653 --> 00:56:24,757
-Acho que primeiramente como um rei, ele tinha todo o direito de fazer...
+Acho que primeiramente como um rei, ele tinha todo o direito de fazer…
 
 522
 00:56:24,757 --> 00:56:29,762
@@ -2141,7 +2141,7 @@ Penso em cumplicidade, certamente, aquela sua virtude que todos comentavam e
 
 528
 00:56:47,780 --> 00:56:52,547
-e você sabe que ele manteve sua palavra ao seu pai e, em seguida a seus súditos, seu... Reino, 
+e você sabe que ele manteve sua palavra ao seu pai e, em seguida a seus súditos, seu… Reino, 
 
 529
 00:56:52,785 --> 00:56:57,482
@@ -2239,7 +2239,7 @@ Não, quando ela foi banida e ela entrou na floresta novamente.
 
 552
 01:01:40,606 --> 01:01:45,311
-E lá ela encontra aquele... professor. - Valniki. - Valniki. Sinto muito. 
+E lá ela encontra aquele… professor. - Valniki. - Valniki. Sinto muito. 
 
 553
 01:01:45,311 --> 01:01:49,145
@@ -2329,7 +2329,7 @@ Boo hoo,
 01:03:57,443 --> 01:03:58,671
 Boo hoo,
 Boo hoo,
-Boo, hoo...
+Boo, hoo…
 
 573
 01:03:58,811 --> 01:04:05,011
@@ -2420,7 +2420,7 @@ namorado
 594
 01:07:12,505 --> 01:07:21,313
 e ela vive dizendo: "não, todos os dias, tenho certeza, eu cozinho para ele e mando-lhe 
-um almoço quentinho ao meio-dia..." 
+um almoço quentinho ao meio-dia…" 
 
 595
 01:07:21,313 --> 01:07:24,116
@@ -2432,7 +2432,7 @@ Não lhe digue "ouça, ele não gosta de você e nem lhe quer falar".
 
 597
 01:07:27,987 --> 01:07:33,459
-Sita reza para ele todos os dias ...Isso é o que 'eu' penso..
+Sita reza para ele todos os dias… Isso é o que 'eu' penso…
 
 
 598
@@ -2514,7 +2514,7 @@ Eu quis esquecer você, e deixei o passado para trás.
 
 617
 01:08:39,258 --> 01:08:49,435
-Ainda a magia da noite de quando o conheci parece permanecer para sempre na minha mente...
+Ainda a magia da noite de quando o conheci parece permanecer para sempre na minha mente…
 
 618
 01:08:49,435 --> 01:08:53,839
@@ -2638,7 +2638,7 @@ mas ele hesitava por trazê-los de volta.
 
 647
 01:11:27,259 --> 01:11:31,663
-Sita! Bem, sim, naturalmente, Sita...
+Sita! Bem, sim, naturalmente, Sita…
 
 
 648
@@ -2659,7 +2659,7 @@ Se ela afunda, ela é pura. Se ela flutua --
 
 652
 01:11:47,413 --> 01:11:51,683
-Não, espere. Se ela flutua ela é pura, se ela afunda...
+Não, espere. Se ela flutua ela é pura, se ela afunda…
 
 653
 01:11:51,683 --> 01:11:54,686
