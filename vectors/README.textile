@@ -1,0 +1,62 @@
+h1. Vector Redraw of Sita Sings the Blues characters by Fabricio Zuardi
+
+h2. About Sita Sings the Blues
+
+"Sita Sings the Blues":http://sitasingstheblues.com is an animated 
+feature film created by "Nina Paley":http://www.ninapaley.com/ .
+
+It is a wonderful movie based on the ancient Ramayana,
+it was released under a Creative Commons Share-Alike License and 
+is available online, so if you still haven't seen it, stop everything 
+and go there watch it!
+
+h2. Why Redraw the characters?
+
+* SVG is a great open format, and the movie has awesome drawings, so a perfect match
+* At the moment of this writing, the Flash files "were not yet available":http://www.sitasingstheblues.com/wiki/index.php?title=FAQ
+* Trace bitmaps are sub-optimal
+* I wanted clean and human-readable SVG files (view source is your friend)
+* I wanted to train my "Inkscape":http://inkscape.org skills ;)
+
+h2. License
+
+Since the movie uses a "Creative Commons Attribution Share-Alike":http://creativecommons.org/licenses/by-sa/3.0/
+license, I was able to do my redraw of Nina’s work without having to ask her for permission
+because she already granted permission for everyone to modify her work and release copies 
+of derivative works like this, as long as they use the same license.
+
+So, all vector drawings on this package, as well as the color palettes are
+released under the same license: http://creativecommons.org/licenses/by-sa/3.0/
+which means that you are free to use them for any purpose as long as you credit me
+as the author of the redraw and Nina as the original artist creator of the drawings.
+
+h2. Source
+
+The vectors on this package used the "high quality Sita Sings the Blues Stills":http://www.archive.org/details/SitaStills
+released by Nina on Archive.org as guide and basis for the redrawing.
+
+h2. Contents
+
+Each drawing has 3 files: an inkscape svg file, a plain svg file and an inkscape color palette you can throw 
+in the "palettes" folder of your Inkscape to enable a new Color Swatch to use when editing that file.
+
+h2. Updates and Contributions
+
+We keep track of the changes and updates to this package at http://github.com/fczuardi/sita
+under the folder "vectors", this is a GIT repository, which means that you can
+pull recent changes to your machine, subscribe to the github RSS notifications to 
+know when new files or updates are submitted, fork the whole project and suggest
+fixes, submit patches or request pulls. I would love to see this collection grow with
+the help of more people, please contribute :)
+
+h2. Thanks
+
+I wanted to thank once again Nina Paley for sharing her work, and you for downloading it.
+
+Enjoy!
+
+h2. Contact Information
+
+Fabricio Campos Zuardi
+Email – fabricio at fabricio dot org
+Website — http://fabricio.org
