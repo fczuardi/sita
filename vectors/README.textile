@@ -18,7 +18,7 @@ h2. License
 
 Since the movie uses a "Creative Commons Attribution Share-Alike":http://creativecommons.org/licenses/by-sa/3.0/ license, I was able to do my redraw of Nina’s work without having to ask her for permission because she already granted permission for everyone to modify her work and release copies of derivative works like this, as long as they use the same license.
 
-So, all vector drawings on this package, as well as the color palettes are released under the same license: http://creativecommons.org/licenses/by-sa/3.0/ which means that you are free to use them for any purpose as long as you credit me as the author of the redraw and Nina as the original artist creator of the drawings.
+So, all vector drawings on this package, as well as the color palettes are released under the same license: http://creativecommons.org/licenses/by-sa/3.0/ 
 
 h2. Source
 
