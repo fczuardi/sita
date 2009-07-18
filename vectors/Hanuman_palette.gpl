@@ -1,0 +1,25 @@
+GIMP Palette
+Name: SSTB — Hanuman
+Columns: 0
+#
+  0   0   0 Black
+255 255 255 White
+197 197 255 Skin Fill
+ 51  51 104 Face Stroke
+ 76  76 122 Eyebrow Stroke
+102 102 157 Body Stroke
+ 68  68 121 Stomach Stroke
+119 119 175 Hand Tail and Foot Stroke
+ 60  60 113 Nose Stroke
+ 51   0   0 Nose Fill
+153  51  51 Mouth Stroke
+255 102  51 Pants Fill
+153   0  51 Pants Stroke
+255 204   0 Gold Fill
+153 102  51 Gold Stroke
+216 162   1 Banana Shadow Fill
+102  51   0 Banana Stroke
+  0 102   0 Gem Head Fill
+  0 140  38 Gem Left and Right Fill
+  0 204 102 Gem Shine
+ 51 204  51 Gem Stomach Shine
