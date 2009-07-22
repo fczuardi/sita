@@ -1,0 +1,14 @@
+GIMP Palette
+Name: SSTB — Goat
+Columns: 0
+#
+  0   0   0 Black
+255 255 255 White
+206 122  21 Body Fill
+ 84  30  22 Body Stroke
+ 58  20  15 Legs Stroke Shadow
+ 60  37  26 Eye Pupil Fill
+248 218 188 Light Dots
+181 100 111 Ears, Nose and Foot
+126  69  77 Foot Shadow
+173 152 131 Foot Line Shadow
