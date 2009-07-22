@@ -17,7 +17,8 @@
    version="1.0"
    sodipodi:docname="Goat.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   style="display:inline">
+   style="display:inline"
+   enable-background="new">
   <defs
      id="defs2619">
     <inkscape:perspective
@@ -34,6 +35,14 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter3223"
+       inkscape:label="shadowonlegs">
+      <feColorMatrix
+         id="feColorMatrix3271"
+         values="0.835 0 0 0 0 0 0.835 0 0 0 0 0 0.835 0 0 0 0 0 1 0 " />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -46,31 +55,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="879.47578"
-     inkscape:cy="416.38567"
+     inkscape:cx="822.89492"
+     inkscape:cy="73.082485"
      inkscape:document-units="px"
-     inkscape:current-layer="tail"
+     inkscape:current-layer="svg2617"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1156"
+     inkscape:window-width="1640"
+     inkscape:window-height="1067"
      inkscape:window-x="0"
-     inkscape:window-y="1072"
+     inkscape:window-y="0"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="0,1"
-       position="850.80098,329.56227"
-       id="guide3164" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="935.71429,330.71429"
-       id="guide3219" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="776.42857,319.28571"
-       id="guide3223" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata2622">
     <rdf:RDF>
@@ -79,7 +75,53 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Goat (redraw by FCZ, after Nina Paley)</dc:title>
+        <dc:date>07-22-2009</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fabricio Campos Zuardi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Fabricio Campos Zuardi</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation>http://sitasingstheblues.com</dc:relation>
+        <dc:description>A redraw of the Goat used in the movie Sita Sings the Blues (2008)</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>goat</rdf:li>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>india</rdf:li>
+            <rdf:li>sita sings the blues</rdf:li>
+            <rdf:li>sstb</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nina Paley</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>http://www.archive.org/download/SitaStills/05.RamSitaGods.png</dc:source>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -103,6 +145,46 @@
        d="M 914.94567,130.78669 C 887.36119,170.72339 840.66834,192.61008 796.25274,130.02908"
        id="tail_dots"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:label="guide"
+     inkscape:groupmode="layer"
+     id="guide"
+     transform="translate(225.85715,-429.36218)"
+     style="opacity:1;display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="-1141.9235"
+       x="-2291.4285"
+       id="image2851"
+       height="2250"
+       width="4000"
+       sodipodi:absref="/Users/fczuardi/trampos/sita/coloring-book/05.RamSitaGods.png"
+       xlink:href="/Users/fczuardi/trampos/sita/coloring-book/05.RamSitaGods.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="back_legs"
+     inkscape:label="back_legs"
+     style="display:inline;filter:url(#filter3223)">
+    <use
+       style="opacity:1;display:inline;filter:url(#filter3223)"
+       x="0"
+       y="0"
+       xlink:href="#left_front_leg"
+       id="right_back_leg"
+       transform="translate(188,0)"
+       width="950"
+       height="550" />
+    <use
+       height="550"
+       width="950"
+       transform="translate(-47,0)"
+       id="left_back_leg"
+       xlink:href="#left_front_leg"
+       y="0"
+       x="0"
+       style="opacity:1;fill:#90550f;fill-opacity:1;display:inline;filter:url(#filter3223)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -141,6 +223,47 @@
        d="M 294.28572,133.57143 C 321.02016,419.36187 720.6301,416.04909 748.57143,127.85714"
        id="dots_body_bottom"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="front_legs"
+     inkscape:label="front_legs"
+     style="opacity:1;display:inline">
+    <g
+       id="left_front_leg">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="leg_base"
+         d="M 413.57143,516.07143 L 444.64286,342.85714 L 392.35761,342.85714 L 413.57143,516.07143 z"
+         style="fill:#ce7a15;fill-rule:evenodd;stroke:#541e16;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 449,338 A 29,29 0 1 1 391,338 A 29,29 0 1 1 449,338 z"
+         sodipodi:ry="29"
+         sodipodi:rx="29"
+         sodipodi:cy="338"
+         sodipodi:cx="420"
+         id="leg_circle"
+         style="opacity:1;fill:#ce7a15;fill-opacity:1;stroke:#541e16;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="foot_base"
+         d="M 414.03628,499.1767 L 420.85481,461.23285 L 408.85924,461.10658 L 414.03628,499.1767 z"
+         style="fill:#b5646f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="foot_border_top"
+         d="M 408.6067,459.40194 L 421.67556,459.33881"
+         style="fill:none;fill-rule:evenodd;stroke:#f8dabc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#left_front_leg"
+       id="right_front_leg"
+       transform="translate(231,0)"
+       width="950"
+       height="550" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -276,21 +399,5 @@
        transform="matrix(-1,0,0,1,375.64224,0)"
        width="950"
        height="550" />
-  </g>
-  <g
-     inkscape:label="guide"
-     inkscape:groupmode="layer"
-     id="guide"
-     transform="translate(225.85715,-429.36218)"
-     style="opacity:1;display:inline"
-     sodipodi:insensitive="true">
-    <image
-       y="-1141.9235"
-       x="-2291.4285"
-       id="image2851"
-       height="2250"
-       width="4000"
-       sodipodi:absref="/Users/fczuardi/trampos/sita/coloring-book/05.RamSitaGods.png"
-       xlink:href="/Users/fczuardi/trampos/sita/coloring-book/05.RamSitaGods.png" />
   </g>
 </svg>
