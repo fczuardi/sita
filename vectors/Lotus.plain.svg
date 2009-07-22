@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="320"
+   height="260"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="lotus_leaf_gradient">
+      <stop
+         id="stop3179"
+         style="stop-color:#ff99cc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3189"
+         style="stop-color:#cc00cc;stop-opacity:1"
+         offset="0.80000001" />
+      <stop
+         id="stop3167"
+         style="stop-color:#cc00cc;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3187"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3223"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3225"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3229"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3246"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       id="linearGradient3275"
+       xlink:href="#lotus_leaf_gradient"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="lotus_flower"
+     style="opacity:1;display:inline">
+    <g
+       transform="matrix(0.9090771,-0.4166278,0.4166278,0.9090771,-80.311139,66.314494)"
+       id="central_leaf"
+       style="opacity:1;display:inline">
+      <path
+         d="M 145.99931,262.91137 C 260.71067,251.47176 263.58756,115.57818 243.22784,56.009263 C 152.85088,105.01923 106.91663,189.49346 145.99931,262.91137 z"
+         id="path3273"
+         style="opacity:1;fill:#ff99cc;fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <use
+       transform="matrix(-1,0,0,1,322.97149,0)"
+       id="left_side"
+       x="0"
+       y="0"
+       width="320"
+       height="260"
+       xlink:href="#right_side" />
+    <g
+       id="right_side">
+      <g
+         id="leaf_b">
+        <path
+           d="M 175.35715,241.78572 C 275.8088,270.4195 302.72823,159.64241 313.92855,91.071428 C 237.83768,100.17925 138.9149,159.72891 175.35715,241.78572 z"
+           id="leaf_b_base"
+           style="opacity:1;fill:url(#linearGradient3229);fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 240.00001,213.57143 C 218.90108,239.86754 196.3789,236.7369 177.50001,241.07143"
+           id="leaf_b_fold"
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#9c069d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="leaf_a">
+        <path
+           d="M 163.57143,248.57143 C 267.32033,228.56988 255.20003,76.147485 244.99999,56.428571 C 172.49749,75.583836 127.9207,168.73087 163.57143,248.57143 z"
+           id="leaf_a_fill"
+           style="opacity:1;fill:url(#linearGradient3229);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 203.92858,180 C 189.06288,227.88412 171.21821,230.79773 162.85715,242.85714"
+           id="leaf_a_fold"
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#9c069d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 163.57143,248.57143 C 267.32033,228.56988 255.20003,76.147485 244.99999,56.428571 C 172.49749,75.583836 127.9207,168.73087 163.57143,248.57143 z"
+           id="leaf_a_border"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

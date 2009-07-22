@@ -1,0 +1,10 @@
+GIMP Palette
+Name: SSTB — Lotus
+Columns: 0
+#
+  0   0   0 Black
+255 255 255 White
+255 153 204 Lotus Gradient Start
+204   0 204 Lotus Gradient End
+255  51 153 Lotus Stroke
+156   6 157 Lotus Fold Stroke

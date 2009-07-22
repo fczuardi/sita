@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="260"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Lotus.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="lotus_leaf_gradient">
+      <stop
+         id="stop3179"
+         offset="0"
+         style="stop-color:#ff99cc;stop-opacity:1;" />
+      <stop
+         offset="0.80000001"
+         id="stop3189"
+         style="stop-color:#cc00cc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#cc00cc;stop-opacity:1;"
+         offset="1"
+         id="stop3167" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2649"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3187"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3223"
+       gradientUnits="userSpaceOnUse"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3225"
+       gradientUnits="userSpaceOnUse"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3229"
+       gradientUnits="userSpaceOnUse"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3246"
+       gradientUnits="userSpaceOnUse"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lotus_leaf_gradient"
+       id="linearGradient3275"
+       gradientUnits="userSpaceOnUse"
+       x1="190"
+       y1="124"
+       x2="160"
+       y2="245" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="163.32334"
+     inkscape:cy="147.81288"
+     inkscape:document-units="px"
+     inkscape:current-layer="lotus_flower"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:window-width="1917"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="1072" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:title>Lotus Flower (redraw by FCZ, after Nina Paley)</dc:title>
+        <dc:date>07-21-2009</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fabricio Campos Zuardi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nina Paley</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Fabricio Campos Zuardi</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>http://www.archive.org/download/SitaStills/06.RamHanuSitaRainReflect.png</dc:source>
+        <dc:relation>http://sitasingstheblues.com</dc:relation>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>lotus</rdf:li>
+            <rdf:li>flower</rdf:li>
+            <rdf:li>lotus flower</rdf:li>
+            <rdf:li>pink</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A redraw of the Lotus flower used in the movie Sita Sings the Blues (2008)</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="lotus_flower"
+     inkscape:label="lotus_flower"
+     style="opacity:1;display:inline">
+    <g
+       style="opacity:1;display:inline"
+       id="central_leaf"
+       transform="matrix(0.9090771,-0.4166278,0.4166278,0.9090771,-80.311139,66.314494)">
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path3273"
+         d="M 145.99931,262.91137 C 260.71067,251.47176 263.58756,115.57818 243.22784,56.009263 C 152.85088,105.01923 106.91663,189.49346 145.99931,262.91137 z"
+         style="opacity:1;fill:#ff99cc;fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#right_side"
+       id="left_side"
+       inkscape:transform-center-x="67.499996"
+       inkscape:transform-center-y="-96.071429"
+       width="320"
+       height="260"
+       transform="matrix(-1,0,0,1,322.97149,0)" />
+    <g
+       id="right_side">
+      <g
+         id="leaf_b">
+        <path
+           sodipodi:nodetypes="ccc"
+           id="leaf_b_base"
+           d="M 175.35715,241.78572 C 275.8088,270.4195 302.72823,159.64241 313.92855,91.071428 C 237.83768,100.17925 138.9149,159.72891 175.35715,241.78572 z"
+           style="opacity:1;fill:url(#linearGradient3229);fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="leaf_b_fold"
+           d="M 240.00001,213.57143 C 218.90108,239.86754 196.3789,236.7369 177.50001,241.07143"
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#9c069d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="leaf_a">
+        <path
+           style="opacity:1;fill:url(#linearGradient3229);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 163.57143,248.57143 C 267.32033,228.56988 255.20003,76.147485 244.99999,56.428571 C 172.49749,75.583836 127.9207,168.73087 163.57143,248.57143 z"
+           id="leaf_a_fill"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#9c069d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 203.92858,180 C 189.06288,227.88412 171.21821,230.79773 162.85715,242.85714"
+           id="leaf_a_fold"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="ccc"
+           id="leaf_a_border"
+           d="M 163.57143,248.57143 C 267.32033,228.56988 255.20003,76.147485 244.99999,56.428571 C 172.49749,75.583836 127.9207,168.73087 163.57143,248.57143 z"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff3399;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
