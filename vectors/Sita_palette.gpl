@@ -8,11 +8,11 @@ Columns: 0
   0 153 255 Eye Blue
 255 204   0 Gold Fill
 153 102  51 Gold Stroke
-255 204 153 Skin Fill
-255 153 102 Skin Stroke
+209 167 125 Skin Fill
+209 125  83 Skin Stroke
 153   0   0 Lips, Forehead Circle Fill
-255 102 102 Dress Fill
-204   0  51 Forehead Circle and Dress Stroke
+209  83  83 Dress Fill
+167   0  41 Forehead Circle and Dress Stroke
 172  12  22 Nails
 207   6  54 Legs Stroke
   0 102   0 Gem
