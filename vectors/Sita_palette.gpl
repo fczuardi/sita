@@ -4,17 +4,17 @@ Columns: 0
 #
   0   0   0 Black
 255 255 255 White
-  0   0 153 Hair Stroke
-  0 153 255 Eye Blue
-255 204   0 Gold Fill
-153 102  51 Gold Stroke
+  0   0 125 Hair Stroke
+ 31 130  95 Eye Blue
+209 167   0 Gold Fill
+125  83  41 Gold Stroke
 209 167 125 Skin Fill
 209 125  83 Skin Stroke
-153   0   0 Lips, Forehead Circle Fill
+125   0   0 Lips, Forehead Circle Fill
 209  83  83 Dress Fill
 167   0  41 Forehead Circle and Dress Stroke
-172  12  22 Nails
+141   9  18 Nails
 207   6  54 Legs Stroke
-  0 102   0 Gem
- 51 204  51 Gem Shine
+  0  83   0 Gem
+ 41 167  41 Gem Shine
 134 186 191 Clock Dots
