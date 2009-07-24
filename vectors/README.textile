@@ -1,18 +1,25 @@
 h1. Vector Redraw of Sita Sings the Blues characters by Fabricio Zuardi
 
+h2. Important Announcement/Update July-24-2009
+
+Nina has provided some Flash files with lots of useful vectors!! \o/
+
+So this project now will change focus, it will become more of 
+
 h2. About Sita Sings the Blues
 
 "Sita Sings the Blues":http://sitasingstheblues.com is an animated feature film created by "Nina Paley":http://www.ninapaley.com/ .
 
 It is a wonderful movie based on the ancient Ramayana, it was released under a Creative Commons Share-Alike License and is available online, so if you still haven't seen it, stop everything and go there watch it!
 
-h2. Why Redraw the characters?
+h2. Why Redraw the characters? (old, see the July-24-2009 update/note at the beginning)
 
 * SVG is a great open format, and the movie has awesome drawings, so a perfect match
-* At the moment of this writing, the Flash files "were not yet available":http://www.sitasingstheblues.com/wiki/index.php?title=FAQ
+* -At the moment of this writing, the Flash files were not yet available- (see the update note at the beginning)
 * Trace bitmaps are sub-optimal
 * I wanted clean and human-readable SVG files (view source is your friend)
 * I wanted to train my "Inkscape":http://inkscape.org skills ;)
+** check the "video":http://www.youtube.com/watch?v=ci26r8TJK4w
 
 h2. License
 
@@ -23,6 +30,8 @@ So, all vector drawings on this package, as well as the color palettes are relea
 h2. Source
 
 The vectors on this package used the "high quality Sita Sings the Blues Stills":http://www.archive.org/details/SitaStills released by Nina on Archive.org as guide and basis for the redrawing.
+
+New files will use Nina's Flash files as the base source, see notice at the beginning.
 
 h2. Contents
 
